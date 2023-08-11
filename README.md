@@ -1,4 +1,4 @@
-![Hi](https://github.com/axshivam/axshivam/blob/master/Assets/Hi.gif) Welcome to my GitHub profile!  
+<img src="https://github.com/axshivam/axshivam/blob/master/Assets/Hi.gif" alt="Hi" width="50" /> Welcome to my GitHub profile!  
 
 # ASILBEK TURGUNBOEV ![Backend Developer](https://img.shields.io/badge/Role-Backend_Developer-blue)  
 
