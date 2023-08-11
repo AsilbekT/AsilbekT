@@ -1,14 +1,14 @@
 # ASILBEK TURGUNBOEV ![Backend Developer](https://img.shields.io/badge/Role-Backend_Developer-blue)
 **Tashkent, Uzbekistan**  
 📞 +998990010513 | 📧 [asilbekturgunboevv@gmail.com](mailto:asilbekturgunboevv@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+[!LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
 ## OBJECTIVE!
 
 An active and curious Backend developer with more than 2.5 years of experience.
 
 ## EDUCATION
-![Webster University][image](https://github.com/AsilbekT/AsilbekT/assets/63292023/eeedc837-37e4-41f1-b954-32feb447a608)
+!Webster University
 **Management Information Systems** (2019 – 2024)
 
 ## EXPERIENCE
