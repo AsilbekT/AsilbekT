@@ -1,7 +1,7 @@
 # ASILBEK TURGUNBOEV ![Backend Developer](https://img.shields.io/badge/Role-Backend_Developer-blue)
 **Tashkent, Uzbekistan**  
 📞 +998990010513 | 📧 [asilbekturgunboevv@gmail.com](mailto:asilbekturgunboevv@gmail.com)  
-[!LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
 ## OBJECTIVE!
 
