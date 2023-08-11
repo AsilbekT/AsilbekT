@@ -9,7 +9,7 @@ An active and curious Backend developer with more than 3 years of experience.
 
 ## EDUCATION
 Webster University
-**Management Information Systems** (2019 – 2024)
+**Management Information Systems** (2019 – 2023)
 
 ## EXPERIENCE
 iTeach Academy (2020 – 2021)  
