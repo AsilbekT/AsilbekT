@@ -1,46 +1,23 @@
-# ASILBEK TURGUNBOEV
-**Backend Developer** | Tashkent, Uzbekistan  
+# ASILBEK TURGUNBOEV ![Backend Developer](https://img.shields.io/badge/Role-Backend_Developer-blue)
+**Tashkent, Uzbekistan**  
 📞 +998990010513 | 📧 [asilbekturgunboevv@gmail.com](mailto:asilbekturgunboevv@gmail.com)  
-[LinkedIn](https://www.linkedin.com/in/asilbek-turgunboev-0b10b01a3/) | [Twitter](URL) | [Blog](URL) | [Portfolio](URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
-## OBJECTIVE
-An active and curious Backend developer with more than 2.5 years of experience. Gained team working, communication, and other skills while working in different projects with different developers for real clients.
+## OBJECTIVE!
+
+An active and curious Backend developer with more than 2.5 years of experience.
 
 ## EDUCATION
-**Management Information Systems** | Webster University in Tashkent (2019 – 2024)  
-- Took computer programming course with C++, Network principles, System design, Database concepts, and Social engineering.
-- Completed modern Python3 boot camp, and 100 days of code from Udemy.com
+![Webster University][image](https://github.com/AsilbekT/AsilbekT/assets/63292023/eeedc837-37e4-41f1-b954-32feb447a608)
+**Management Information Systems** (2019 – 2024)
 
 ## EXPERIENCE
-
-### Backend Developer Tutor | iTeach Academy in Fergana (2020 – 2021)
-Responsible for teaching students Backend development from scratch with Python programming language and its frameworks Flask and Django.
-
-### IT Specialist | [SmartOne Club](smartone.uz) (2022 – NOW)
-Web developer creating websites, automating repeated tasks, and creating telegram bots. Developed e-commerce website and currently working on automating customer service.
+![iTeach Academy](2020 – 2021)  
+![SmartOne Club](2022 – NOW)
 
 ## SKILLS
-- Python
-- C++
-- PHP
-- JavaScript
-- PostgreSQL
-- Cashing (Redis)
-- Flask
-- Django
-- Laravel
-- Linux
-- Git
-- HTML, CSS
-
-## FREELANCING
-- **Ansor Restaurants Telegram Bot**: [Ansorfamily_bot](https://t.me/Ansorfamily_bot)  
-  - Backend (Python, Django), Statistics (JavaScript), Order receiving, Rating for services (KPI), Database (PostgreSQL)
-
-- **Sospharm E-commerce Mobile App**: Backend for a company producing medicines, including Statistics (JavaScript), Low-level caching (Redis), Database (PostgreSQL)
-
-- **Sadaf Dental Clinic KPI System**: Backend for feedback system, including Statistics (JavaScript), Database (PostgreSQL)
+![Python](https://img.shields.io/badge/-Python-black?logo=python) ![C++](https://img.shields.io/badge/-C++-00599C?logo=c) ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php) ![JavaScript](https://img.shields.io/badge/-JavaScript-black?logo=javascript) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql) ![Redis](https://img.shields.io/badge/-Redis-D92B21?logo=redis) ![Flask](https://img.shields.io/badge/-Flask-black?logo=flask) ![Django](https://img.shields.io/badge/-Django-092E20?logo=django) ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel) ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux) ![Git](https://img.shields.io/badge/-Git-black?logo=git) ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white)
 
 ---
 
-🔗 [View my full portfolio](URL) | 📫 [Get in touch](mailto:asilbekturgunboevv@gmail.com)
+🔗 📫 [Get in touch](mailto:asilbekturgunboevv@gmail.com) 🤝
