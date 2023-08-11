@@ -16,22 +16,11 @@ iTeach Academy (2020 – 2021)
 SmartOne Club (2022 – 2023)
 
 ## SKILLS
-### Languages
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c) ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php) ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
-
-### Frameworks
-![Flask](https://img.shields.io/badge/-Flask-black?style=flat&logo=flask) ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django) ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel)
-
-### Databases
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql) ![Redis](https://img.shields.io/badge/-Redis-D92B21?style=flat&logo=redis)
-
-### Tools
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux) ![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)
 
 
 | **Languages** | **Frameworks** | **Databases** | **Tools** |
 |---------------|----------------|---------------|-----------|
-| ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c) ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php) ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript) | ![Flask](https://img.shields.io/badge/-Flask-black?style=flat&logo=flask) ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django) ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel) | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql) ![Redis](https://img.shields.io/badge/-Redis-D92B21?style=flat&logo=redis) | ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux) ![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git) |
+| ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c) ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php) ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript) | ![Flask](https://img.shields.io/badge/-Flask-black?style=flat&logo=flask) ![FastApi](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django) ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel) | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql) ![Redis](https://img.shields.io/badge/-Redis-D92B21?style=flat&logo=redis) | ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux) ![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git) |
 
 
 ---
