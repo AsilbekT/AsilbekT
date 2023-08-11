@@ -3,7 +3,7 @@
 📞 +998990010513 | 📧 [asilbekturgunboevv@gmail.com](mailto:asilbekturgunboevv@gmail.com)  
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
-## OBJECTIVE!
+## OBJECTIVE
 
 An active and curious Backend developer with more than 3 years of experience.
 
