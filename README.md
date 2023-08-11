@@ -5,7 +5,7 @@
 
 ## OBJECTIVE!
 
-An active and curious Backend developer with more than 2.5 years of experience.
+An active and curious Backend developer with more than 3 years of experience.
 
 ## EDUCATION
 Webster University
