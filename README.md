@@ -34,4 +34,4 @@ _Management Information Systems_ (2019 – 2023) ![Education](https://img.shield
 
 ---
 
-🔗 📫 [Get in touch](mailto:asilbekturgunboevv@gmail.com) 🤝 ![GitHub Followers](https://img.shields.io/github/followers/username?label=Follow&style=social)
+🔗 📫 [Get in touch](mailto:asilbekturgunboevv@gmail.com) 🤝 ![GitHub Followers](https://img.shields.io/github/followers/AsilbekT?label=Follow&style=social)
