@@ -23,16 +23,16 @@ _Management Information Systems_ (2019 – 2023)
 ## SKILLS
 
 ### Languages
-![Python](https://img.shields.io/badge/-Python-FFFFFF?style=flat&logo=python) ![C++](https://img.shields.io/badge/-C++-FFFFFF?style=flat&logo=c) ![PHP](https://img.shields.io/badge/-PHP-FFFFFF?style=flat&logo=php) ![JavaScript](https://img.shields.io/badge/-JavaScript-FFFFFF?style=flat&logo=javascript)
+![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python) ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c) ![PHP](https://img.shields.io/badge/-PHP-000000?style=flat&logo=php) ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 
 ### Frameworks
-![Flask](https://img.shields.io/badge/-Flask-FFFFFF?style=flat&logo=flask) ![Django](https://img.shields.io/badge/-Django-FFFFFF?style=flat&logo=django) ![Laravel](https://img.shields.io/badge/-Laravel-FFFFFF?style=flat&logo=laravel)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask) ![Django](https://img.shields.io/badge/-Django-000000?style=flat&logo=django) ![Laravel](https://img.shields.io/badge/-Laravel-000000?style=flat&logo=laravel)
 
 ### Databases
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-FFFFFF?style=flat&logo=postgresql) ![Redis](https://img.shields.io/badge/-Redis-FFFFFF?style=flat&logo=redis)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=postgresql) ![Redis](https://img.shields.io/badge/-Redis-000000?style=flat&logo=redis)
 
 ### Tools
-![Linux](https://img.shields.io/badge/-Linux-FFFFFF?style=flat&logo=linux) ![Git](https://img.shields.io/badge/-Git-FFFFFF?style=flat&logo=git)
+![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux) ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git)
 
 
 
