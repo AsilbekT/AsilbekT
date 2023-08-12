@@ -23,16 +23,17 @@ _Management Information Systems_ (2019 – 2023)
 ## SKILLS
 
 ### Languages
-![Python](https://img.shields.io/badge/-Python-FFFFFF?style=flat&logo=python&logoColor=000000) ![C++](https://img.shields.io/badge/-C++-FFFFFF?style=flat&logo=c&logoColor=000000) ![PHP](https://img.shields.io/badge/-PHP-FFFFFF?style=flat&logo=php&logoColor=000000) ![JavaScript](https://img.shields.io/badge/-JavaScript-FFFFFF?style=flat&logo=javascript&logoColor=000000)
+![Python](https://img.shields.io/badge/-Python-FFFFFF?style=flat&logo=python) ![C++](https://img.shields.io/badge/-C++-FFFFFF?style=flat&logo=c) ![PHP](https://img.shields.io/badge/-PHP-FFFFFF?style=flat&logo=php) ![JavaScript](https://img.shields.io/badge/-JavaScript-FFFFFF?style=flat&logo=javascript)
 
 ### Frameworks
-![Flask](https://img.shields.io/badge/-Flask-FFFFFF?style=flat&logo=flask&logoColor=000000) ![Django](https://img.shields.io/badge/-Django-FFFFFF?style=flat&logo=django&logoColor=000000) ![Laravel](https://img.shields.io/badge/-Laravel-FFFFFF?style=flat&logo=laravel&logoColor=000000)
+![Flask](https://img.shields.io/badge/-Flask-FFFFFF?style=flat&logo=flask) ![Django](https://img.shields.io/badge/-Django-FFFFFF?style=flat&logo=django) ![Laravel](https://img.shields.io/badge/-Laravel-FFFFFF?style=flat&logo=laravel)
 
 ### Databases
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-FFFFFF?style=flat&logo=postgresql&logoColor=000000) ![Redis](https://img.shields.io/badge/-Redis-FFFFFF?style=flat&logo=redis&logoColor=000000)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-FFFFFF?style=flat&logo=postgresql) ![Redis](https://img.shields.io/badge/-Redis-FFFFFF?style=flat&logo=redis)
 
 ### Tools
-![Linux](https://img.shields.io/badge/-Linux-FFFFFF?style=flat&logo=linux&logoColor=000000) ![Git](https://img.shields.io/badge/-Git-FFFFFF?style=flat&logo=git&logoColor=000000)
+![Linux](https://img.shields.io/badge/-Linux-FFFFFF?style=flat&logo=linux) ![Git](https://img.shields.io/badge/-Git-FFFFFF?style=flat&logo=git)
+
 
 
 ---
