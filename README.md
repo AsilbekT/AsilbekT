@@ -3,7 +3,7 @@
 **Tashkent, Uzbekistan**  
 📞 +998990010513 | 📧 [asilbekturgunboevv@gmail.com](mailto:asilbekturgunboevv@gmail.com)  
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-[![Tests]([https://img.shields.io/badge/test](https://img.shields.io/github/workflow/status/rodested/secman/))](https://github.com/rodested/secman/actions)
+[![GitHub Actions Status](https://img.shields.io/github/workflow/status/rodested/secman/test)](https://github.com/rodested/secman/actions)
 ## OBJECTIVE
 
 An active and curious Backend developer with more than 3 years of experience. ![Years of Experience](https://img.shields.io/badge/Experience-3%2B%20years-brightgreen)
