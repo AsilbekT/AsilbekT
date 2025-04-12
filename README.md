@@ -1,4 +1,4 @@
-<div align="center">
+<div>
   <h1>Asilbek Turgunboev</h1>
   <p>
     <img src="https://img.shields.io/badge/Role-Software%20Engineer-blue" />
