@@ -4,7 +4,7 @@
 ![Experience](https://img.shields.io/badge/Experience-4%2B%20Years-brightgreen)
 ![Specialty](https://img.shields.io/badge/Specialty-Backend%20%2F%20AI-yellow)
 
-📍 Toronto, Canada 
+📍 Toronto, Canada <br>
 📞 +998 99 001 05 13  
 📧 [asilbekturgunboevv@gmail.com](mailto:asilbekturgunboevv@gmail.com)  
 🔗 [LinkedIn](https://linkedin.com/in/asilbek-turgunboev) | [GitHub](https://github.com/AsilbekT)
