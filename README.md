@@ -1,4 +1,4 @@
-<div align="center">
+<div>
 
 <h1 style="font-weight: bold; font-size: 3rem;">🚀 Asilbek Turgunboev</h1>
 
